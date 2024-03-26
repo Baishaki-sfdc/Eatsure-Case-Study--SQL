@@ -6,18 +6,18 @@ The primary objective of this case study was to analyze the data from the food d
 
 ## Business Questions
 
-Find customers who have never ordered
-Average Price/dish
-Find the top restaurant in terms of the number of orders for a given month
-Restaurants with monthly sales greater than x for
-Show all orders with order details for a particular customer in a particular date range
-Find restaurants with max repeated customers
-Month over month revenue growth of Swiggy
-Customer — favourite food
-Find the most loyal customers for all restaurant
-Month-over-month revenue growth of a restaurant
-## Business Recommendation/Solution: 
-Based on the analysis performed using SQL queries, the following recommendations and solutions are proposed:
+Find customers who have never ordered<br/>
+Average Price/dish<br/>
+Find the top restaurant in terms of the number of orders for a given month<br/>
+Restaurants with monthly sales greater than x for<br/>
+Show all orders with order details for a particular customer in a particular date range<br/>
+Find restaurants with max repeated customers<br/>
+Month over month revenue growth of Swiggy<br/>
+Customer — favourite food<br/>
+Find the most loyal customers for all restaurant<br/>
+Month-over-month revenue growth of a restaurant<br/>
+## Business Recommendation/Solution: <br/>
+Based on the analysis performed using SQL queries, the following recommendations and solutions are proposed:<br/>
 
 
 ## Customer Acquisition and Retention Strategies
