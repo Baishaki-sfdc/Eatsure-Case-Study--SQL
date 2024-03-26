@@ -43,5 +43,7 @@ Identified customers who have never placed an order, revealing potential for acq
 Determined customers' favorite dishes or cuisines, enabling personalized recommendations and targeted marketing efforts.
 ## Restaurant Insights
 Determined the top-performing restaurants based on the number of orders received in a given month, highlighting their success factors.
+##  Revenue Insights:
+Calculated the month-over-month revenue growth of EatSure and individual restaurants, enabling forecasting and strategic planning.
 
 
